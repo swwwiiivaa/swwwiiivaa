@@ -1,53 +1,29 @@
-<p align="center">
-  <img src="https://vercel.app" alt="Banner" />
-</p>
+# Привет! Я Frontend Разработчик 🚀
 
-<h3 align="center">A passionate frontend developer from India 🚀</h3>
+A passionate frontend developer from India.
 
 ---
 
 ### 🤝 Connect with me:
-<p align="left">
-  <a href="mailto:ВАША_ПОЧТА@example.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+* **Email:** your.email@example.com
+* **LinkedIn:** https://linkedin.com
 
 ---
 
 ### 💻 Languages and Tools:
-<p align="left"> 
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="html5"/> 
-  </a> 
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="css3"/> 
-  </a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="javascript"/> 
-  </a> 
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="typescript"/> 
-  </a> 
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="react"/> 
-  </a> 
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="tailwind"/> 
-  </a> 
-</p>
+* **HTML5:** ![HTML5](https://shields.io)
+* **CSS3:** ![CSS3](https://shields.io)
+* **JavaScript:** ![JavaScript](https://shields.io)
+* **TypeScript:** ![TypeScript](https://shields.io)
+* **React:** ![React](https://shields.io)
+* **Tailwind CSS:** ![Tailwind CSS](https://shields.io)
 
 ---
 
 ### 📊 GitHub Stats & Activity:
-<p align="center">
-  <img src="https://vercel.app" alt="Stats" />
-</p>
+![Stats](https://vercel.app)
+
+---
 
 ### 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake animation" />
-</p>
+![Snake animation](https://githubusercontent.com)
