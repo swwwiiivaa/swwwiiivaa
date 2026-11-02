@@ -8,7 +8,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ВАША_ПОЧТА@example.com" target="_blank">
     <img src="https://shields.io" alt="Email" />
   </a>
   <a href="https://linkedin.com" target="_blank">
@@ -23,19 +23,19 @@
   <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
     <img src="https://shields.io" alt="html5"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
     <img src="https://shields.io" alt="css3"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> 
     <img src="https://shields.io" alt="javascript"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://shields.io" alt="typescript"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://shields.io" alt="react"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
     <img src="https://shields.io" alt="tailwind"/> 
   </a> 
 </p>
